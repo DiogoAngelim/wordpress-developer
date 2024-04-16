@@ -23,10 +23,10 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## <a name="education"></a> Education 
 
-- Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
-- Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010* 
-- Universidade Federal de Viçosa - 2012 - 2014 
-- Estácio de Sá - 2018-2019 
+- **English Language** - Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
+- **Software Engineering** - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010* 
+- **Economics** - Universidade Federal de Viçosa - *2012 - 2014* 
+- **Computer Science** - Estácio de Sá - *2018 - 2019* 
 
 <br>
 

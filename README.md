@@ -3,7 +3,7 @@
 
 <br>
 
-An ambitious and results-driven Web Developer with extensive experience in developing and building WordPress based solutions for multiple platforms. Passionate about finance, health, and technology, pays meticulous attention to detail, and demonstrates sound knowledge of Software Development Lifecycle. Achieves targets through effective planning, delivers projects on time and applies an analytical approach to solving problems. Communicates effectively at all levels, collaborates efficiently  in team settings, and is committed to continuing professional development.   
+An ambitious and results-driven Web Developer with extensive experience in developing and building WordPress based solutions for multiple platforms. Passionate about finance, health, and technology, pays meticulous attention to detail, and demonstrates sound knowledge of Software Development Lifecycle. Achieves targets through effective planning, delivers projects on time and applies an analytical approach to solving problems. Communicates effectively at all levels, collaborates efficiently in team settings, and is committed to continuing professional development.   
 
 <br><br>
 

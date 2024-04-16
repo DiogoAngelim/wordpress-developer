@@ -33,7 +33,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 - **WordPress Expert** 
 
-[![Codeable](https://gcdnb.pbrd.co/images/Hm69OgtFCv6z.png?o=1 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99)
+[![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99)
 
 - **Advanced English** 
 
@@ -120,6 +120,8 @@ Diogo delivered above and beyond what was expected.
 
 Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project! 
 
+![Robert Johnson](robert.png)
+
 *Robert Johnson*
 
 
@@ -128,6 +130,8 @@ Diogo was fantastic and went above and beyond my expectations. He worked until a
 ⭐⭐⭐⭐⭐
 
 Diogo is very efficient. He listened patiently to all my needs and helped me out to accomplish what I exactly wanted. And he always replied in an hour! This is really amazing. 
+
+![Carman Chung](carman.png)
 
 *Carman Chung*
 
@@ -138,6 +142,8 @@ Diogo is very efficient. He listened patiently to all my needs and helped me out
 
 Fast, and super easy to work with. Work was completed to a high standard 
 
+![Adam Selley](adam.png)
+
 *Adam Selley*
 
 
@@ -146,6 +152,8 @@ Fast, and super easy to work with. Work was completed to a high standard
 ⭐⭐⭐⭐⭐
 
 Helpful call with Diogo as he helped me scope out my project and contributed new and interesting  insights that can be used in the project! 
+
+![Joe Robison](joe.png)
 
 *Joe Robison*
 
@@ -156,6 +164,8 @@ Helpful call with Diogo as he helped me scope out my project and contributed new
 
 Doigo is the website help I have been looking for. By far the best person I've hired yet to help me. 
 
+![Shane Baker](shane.png)
+
 *Shane Baker*
 
 
@@ -164,6 +174,8 @@ Doigo is the website help I have been looking for. By far the best person I've h
 ⭐⭐⭐⭐⭐
 
 In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 
+
+![Rudolfs Dzenis](rudolfs.png)
 
 *Rudolfs Dzenis*
 

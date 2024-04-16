@@ -76,7 +76,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## Portfolio 
 
-[View it on Github](https://github.com/digelim?tab=repositories)
+[View it on Github](https://github.com/diogoangelim?tab=repositories)
 
 
 ## Client Reviews 
@@ -135,7 +135,7 @@ Doigo is the website help I have been looking for. By far the best person I've h
 
 
 
-**Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin)** 24 Aug 2021 
+**Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin)** *24 Aug 2021*
 ⭐⭐⭐⭐⭐
 
 In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 

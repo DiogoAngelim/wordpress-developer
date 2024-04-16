@@ -79,7 +79,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 [View it on Github](https://github.com/digelim?tab=repositories)
 
 
-## Reviews 
+## Client Reviews 
 
 **Add Date Filtering to Plugin** *08 Dec 2021* 
 ⭐⭐⭐⭐⭐
@@ -99,7 +99,7 @@ Diogo was fantastic and went above and beyond my expectations. He worked until a
 
 
 
-**I need some coding.** *19 Nov 2021 *
+**I need some coding.** *19 Nov 2021*
 ⭐⭐⭐⭐⭐
 
 Diogo is very efficient. He listened patiently to all my needs and helped me out to accomplish what I exactly wanted. And he always replied in an hour! This is really amazing. 
@@ -117,7 +117,7 @@ Fast, and super easy to work with. Work was completed to a high standard
 
 
 
-**#I need help architecting a 10,000 page site with data-generated pages connected to external APIs.** *19 Oct 2021*
+**I need help architecting a 10,000 page site with data-generated pages connected to external APIs.** *19 Oct 2021*
 ⭐⭐⭐⭐⭐
 
 Helpful call with Diogo as he helped me scope out my project and contributed new and interesting  insights that can be used in the project! 
@@ -126,7 +126,7 @@ Helpful call with Diogo as he helped me scope out my project and contributed new
 
 
 
-**I need spring cleaning on my wordpress website**  07 Oct 2021 
+**I need spring cleaning on my wordpress website**  *07 Oct 2021* 
 ⭐⭐⭐⭐⭐
 
 Doigo is the website help I have been looking for. By far the best person I've hired yet to help me. 

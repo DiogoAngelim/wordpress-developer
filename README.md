@@ -47,6 +47,27 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - **Structured languages**: HTML5, JSON 
 - **Frameworks & Libraries**: WordPress, jQuery, React.js
 
+## Other Skills 
+
+- Data Visualisation
+- Regex 
+- Accessibility 
+- Responsive Design 
+- MySQL 
+- CMS
+- CSS3
+- SVG
+- HTML5
+- PHP
+- Node.js
+- Gutenberg
+- Theme Development 
+- WooCommerce
+- Custom animations
+- Plugin Development
+- Site Migration 
+
+
 ## Portfolio 
 
 [View it on Github](https://github.com/digelim?tab=repositories)
@@ -114,24 +135,4 @@ Doigo is the website help I have been looking for. By far the best person I've h
 In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 
 
 *Rudolfs Dzenis*
-
-## Skills 
-
-- Data Visualisation
-- Regex 
-- Accessibility 
-- Responsive Design 
-- MySQL 
-- CMS
-- CSS3
-- SVG
-- HTML5
-- PHP
-- Node.js
-- Gutenberg
-- Theme Development 
-- WooCommerce
-- Custom animations
-- Plugin Development
-- Site Migration 
 

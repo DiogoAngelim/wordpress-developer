@@ -32,13 +32,9 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## <a name="recognition"></a> Awards & Certificates 
 
-- **WordPress Expert** 
-
-[![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99)
-
-- **Advanced English** 
-
-  Associação Cultural Brasil - Estados Unidos 
+| **WordPress Expert**  <br> [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) 	|
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Advanced English** <br> Associação Cultural Brasil - Estados Unidos                                                                                                                        	|
 
 <br>
 

@@ -68,29 +68,24 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## Other Skills I Have
 
-- Data Visualisation
-- Regex 
-- Accessibility 
-- Responsive Design 
-- MySQL 
-- CMS
-- CSS3
-- SVG
-- HTML5
-- PHP
-- Node.js
-- ES6
-- API integration
-- CRM integration
-- Shell script
-- Gutenberg
-- Git
-- Gulp
-- Theme Development 
-- WooCommerce
-- Custom animations
-- Plugin Development
-- Site Migration 
+[![D3.js](https://img.shields.io/badge/d3.js-<COLOR>.svg)](https://shields.io/)
+[![Regex](https://img.shields.io/badge/regex-<COLOR>.svg)](https://shields.io/)
+[![Accessibility](https://img.shields.io/badge/accessibility-<COLOR>.svg)](https://shields.io/)
+[![Responsive Design](https://img.shields.io/badge/responsive%20design-<COLOR>.svg)](https://shields.io/)
+[![MySQL](https://img.shields.io/badge/mysql-<COLOR>.svg)](https://shields.io/)
+[![CMS](https://img.shields.io/badge/sql-<COLOR>.svg)](https://shields.io/)
+[![SVG](https://img.shields.io/badge/svg-<COLOR>.svg)](https://shields.io/)
+[![Node.js](https://img.shields.io/badge/node.js-<COLOR>.svg)](https://shields.io/)
+[![ES6](https://img.shields.io/badge/es6-<COLOR>.svg)](https://shields.io/)
+[![CRM Integration](https://img.shields.io/badge/crm%20integration-<COLOR>.svg)](https://shields.io/)
+[![API Integration](https://img.shields.io/badge/api%20integration-<COLOR>.svg)](https://shields.io/)
+[![Shell script](https://img.shields.io/badge/shell-<COLOR>.svg)](https://shields.io/)
+[![Gutenberg](https://img.shields.io/badge/gutenberg-<COLOR>.svg)](https://shields.io/)
+[![Git](https://img.shields.io/badge/git-<COLOR>.svg)](https://shields.io/)
+[![Gulp](https://img.shields.io/badge/gulp-<COLOR>.svg)](https://shields.io/)
+[![WooCommerce](https://img.shields.io/badge/woocommerce-<COLOR>.svg)](https://shields.io/)
+[![Animations](https://img.shields.io/badge/animations-<COLOR>.svg)](https://shields.io/)
+[![DNS setup](https://img.shields.io/badge/dns%20setup-<COLOR>.svg)](https://shields.io/)
 
 <br>
 

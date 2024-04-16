@@ -60,6 +60,9 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - HTML5
 - PHP
 - Node.js
+- ES6
+- API integration
+- CRM integration
 - Shell script
 - Gutenberg
 - Git

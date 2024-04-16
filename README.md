@@ -44,9 +44,8 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## Programming Skills 
 
-- **Programming Languages**: PHP, JavaScript 
-- **Structured languages**: HTML5, JSON 
-- **Frameworks & Libraries**: WordPress, jQuery, React.js
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoangelim&layout=compact)
+
 
 ## Other Skills 
 

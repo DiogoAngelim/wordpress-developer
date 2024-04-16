@@ -4,13 +4,11 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## Work 
 
-- **Translator** - Gengo - *2013 - 2014* 
-- **Volunteer** - AIESEC - *2014* 
-- **Translator** - Demand Media Studios - *2015 - 2016* 
+- **Marketing Assistant Volunteer** - AIESEC - *2014* 
 - **Billing Consultant** - Almaviva do Brasil - *2016* 
-- **Web Developer** - On Purpose Projects - *2017-2019* 
+- **WordPress Developer** - On Purpose Projects - *2017-2019* 
 - **Founder** - Naubly - *2019 - 2022* 
-- **Web Developer** - Codeable - *2021-2022* 
+- **WordPress Developer** - Codeable - *2021-2022* 
 
 
 ## Education 

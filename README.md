@@ -31,14 +31,14 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
   Associação Cultural Brasil - Estados Unidos 
 
-## Languages I Speak
+## <a name="languages"></a> Languages I Speak
 
 - 🇧🇷 Portuguese 
 - 🇺🇸 English 
 - 🇪🇸 Spanish 
 - 🇫🇷 French 
 
-## Services I Offer
+## <a name="services"></a> Services I Offer
 
 - Theme development 
 - Plugin development 

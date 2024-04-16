@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=👋%20Hello,%20I%20am%20Diogo&fontSize=90)
 
-# 👋 Hello, I'm Diogo de Aquino Angelim 
+## About
 
 <br>
 
@@ -52,10 +53,10 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## <a name="services"></a> Services I Offer
 
-- Theme development 
-- Plugin development 
-- Theme & plugin customization 
-- Consultation 
+- Theme & Plugin development 
+- Theme & plugin customization
+- Ecommerce Development
+- Speed Optimization 
 
 <br>
 

@@ -43,7 +43,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## Programming Skills 
 
-- **Programming Languages**: PHP, JavaScript, Shell 
+- **Programming Languages**: PHP, JavaScript 
 - **Structured languages**: HTML5, JSON 
 - **Frameworks & Libraries**: WordPress, jQuery, React.js
 
@@ -60,7 +60,10 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - HTML5
 - PHP
 - Node.js
+- Shell script
 - Gutenberg
+- Git
+- Gulp
 - Theme Development 
 - WooCommerce
 - Custom animations

@@ -106,77 +106,73 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## <a name="reviews"> Client Reviews </a>
 
-**Add Date Filtering to Plugin** *08 Dec 2021* 
-⭐⭐⭐⭐⭐
+<details>
+  <summary><b>Add Date Filtering to Plugin</b><i> 08 Dec 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Diogo delivered above and beyond what was expected. 
+  <br><br>
+  <i>Paul Morin<i>
+</details>
 
-Diogo delivered above and beyond what was expected. 
+<details>
+  <summary><b>PaidMembershipPro to Paid Member Subscriptions</b><i> 29 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project!
+  <br><br>
+  <img src="robert.png" alt="Robert Johnson" style="width:64px;"/>
+  <br>
+  <i>Robert Johnson<i>
+</details>
 
-*Paul Morin*
+<details>
+  <summary><b>I need some coding.</b><i> 19 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Diogo is very efficient. He listened patiently to all my needs and helped me out to accomplish what I exactly wanted. And he always replied in an hour! This is really amazing. 
+  <br><br>
+  <img src="carman.png" alt="Carman Chung" style="width:64px;"/>
+  <br>
+  <i>Carman Chung<i>
+</details>
 
+<details>
+  <summary><b>Pushing Local Pickup Plus options to Shipping.</b><i> 01 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Fast, and super easy to work with. Work was completed to a high standard 
+  <br><br>
+  <img src="adam.png" alt="Adam Selley" style="width:64px;"/>
+  <br>
+  <i>Adam Selley<i>
+</details>
 
+<details>
+  <summary><b>I need help architecting a 10,000 page site with data-generated pages connected to external APIs.</b><i> 19 Oct 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Helpful call with Diogo as he helped me scope out my project and contributed new and interesting  insights that can be used in the project! 
+  <br><br>
+  <img src="joe.png" alt="Joe Robison" style="width:64px;"/>
+  <br>
+  <i>Joe Robison<i>
+</details>
 
-**PaidMembershipPro to Paid Member Subscriptions** *29 Nov 2021* 
-⭐⭐⭐⭐⭐
+<details>
+  <summary><b>I need spring cleaning on my wordpress website.</b><i> 07 Oct 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Diogo is the website help I have been looking for. By far the best person I've hired yet to help me. 
+  <br><br>
+  <img src="shane.png" alt="Shane Baker" style="width:64px;"/>
+  <br>
+  <i>Shane Baker<i>
+</details>
 
-Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project! 
+<details>
+  <summary><b>Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin.)</b><i> 24 Aug 2021</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 
+  <br><br>
+  <img src="rudolfs.png" alt="Rudlfs Dzenis" style="width:64px;"/>
+  <br>
+  <i>Rudolfs Dzenis<i>
+</details>
 
-![Robert Johnson](robert.png)
-
-*Robert Johnson*
-
-
-
-**I need some coding.** *19 Nov 2021*
-⭐⭐⭐⭐⭐
-
-Diogo is very efficient. He listened patiently to all my needs and helped me out to accomplish what I exactly wanted. And he always replied in an hour! This is really amazing. 
-
-![Carman Chung](carman.png)
-
-*Carman Chung*
-
-
-
-**Pushing Local Pickup Plus options to Shipping** *01 Nov 2021* 
-⭐⭐⭐⭐⭐
-
-Fast, and super easy to work with. Work was completed to a high standard 
-
-![Adam Selley](adam.png)
-
-*Adam Selley*
-
-
-
-**I need help architecting a 10,000 page site with data-generated pages connected to external APIs.** *19 Oct 2021*
-⭐⭐⭐⭐⭐
-
-Helpful call with Diogo as he helped me scope out my project and contributed new and interesting  insights that can be used in the project! 
-
-![Joe Robison](joe.png)
-
-*Joe Robison*
-
-
-
-**I need spring cleaning on my wordpress website**  *07 Oct 2021* 
-⭐⭐⭐⭐⭐
-
-Doigo is the website help I have been looking for. By far the best person I've hired yet to help me. 
-
-![Shane Baker](shane.png)
-
-*Shane Baker*
-
-
-
-**Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin)** *24 Aug 2021*
-⭐⭐⭐⭐⭐
-
-In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 
-
-![Rudolfs Dzenis](rudolfs.png)
-
-*Rudolfs Dzenis*
 
 <br><br>

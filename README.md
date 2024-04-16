@@ -28,26 +28,26 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
   Associação Cultural Brasil - Estados Unidos 
 
-## Languages 
+## Languages I Speak
 
 - 🇧🇷 Portuguese 
 - 🇺🇸 English 
 - 🇪🇸 Spanish 
 - 🇫🇷 French 
 
-## Services 
+## Services I Offer
 
 - Theme development 
 - Plugin development 
 - Theme & plugin customization 
 - Consultation 
 
-## Programming Skills 
+## My Programming Skills 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoangelim&layout=compact)
 
 
-## Other Skills 
+## Other Skills I Have
 
 - Data Visualisation
 - Regex 
@@ -74,7 +74,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - Site Migration 
 
 
-## Portfolio 
+## My Portfolio 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=optimalstocks)](https://github.com/diogoangelim/optimalstocks/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=bybumi)](https://github.com/diogoangelim/bybumi/)

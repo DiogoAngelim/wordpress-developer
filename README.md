@@ -3,10 +3,10 @@
 
 An ambitious and results-driven Web Developer with extensive experience in developing and building WordPress based solutions for multiple platforms. Passionate about finance, health, and technology, pays meticulous attention to detail, and demonstrates sound knowledge of Software Development Lifecycle. Achieves targets through effective planning, delivers projects on time and applies an analytical approach to solving problems. Communicates effectively at all levels, collaborates efficiently  in team settings, and is committed to continuing professional development. 
 
-| Work | Education | Recognition | Languages | Services | Skills | Portfolio | [Reviews](#reviews) |
+| [Work](#work) | [Education](#education) | [Recognition](#recognition) | [Languages](#languages) | [Services](#services) | [Skills](#skills) | [Portfolio](#portfolio) | [Reviews](#reviews) |
 |------|-----------|-----------------------|------------------|-----------------------|---------------------|--------------|----------------|
 
-## Work 
+## <a name="work"></a> Work 
 
 - **Marketing Assistant Volunteer** - AIESEC - *2014* 
 - **Billing Consultant** - Almaviva do Brasil - *2016* 
@@ -14,14 +14,14 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - **WordPress Developer** - Codeable - *2021-2022* 
 
 
-## Education 
+## <a name="education"></a> Education 
 
 - Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
 - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010* 
 - Universidade Federal de Viçosa - 2012 - 2014 
 - Estácio de Sá - 2018-2019 
 
-## Awards & Certificates 
+## <a name="recognition"></a> Awards & Certificates 
 
 - **WordPress Expert** 
 
@@ -45,7 +45,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - Theme & plugin customization 
 - Consultation 
 
-## My Programming Skills 
+## <a name="skills"></a> My Programming Skills 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoangelim&layout=compact)
 
@@ -77,7 +77,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - Site Migration 
 
 
-## My Portfolio 
+## <a name="portfolio"></a>My Portfolio 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=optimalstocks)](https://github.com/diogoangelim/optimalstocks/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=bybumi)](https://github.com/diogoangelim/bybumi/)

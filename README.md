@@ -1,10 +1,13 @@
 
 # 👋 Hello, I'm Diogo de Aquino Angelim 
 
-An ambitious and results-driven Web Developer with extensive experience in developing and building WordPress based solutions for multiple platforms. Passionate about finance, health, and technology, pays meticulous attention to detail, and demonstrates sound knowledge of Software Development Lifecycle. Achieves targets through effective planning, delivers projects on time and applies an analytical approach to solving problems. Communicates effectively at all levels, collaborates efficiently  in team settings, and is committed to continuing professional development. 
+An ambitious and results-driven Web Developer with extensive experience in developing and building WordPress based solutions for multiple platforms. Passionate about finance, health, and technology, pays meticulous attention to detail, and demonstrates sound knowledge of Software Development Lifecycle. Achieves targets through effective planning, delivers projects on time and applies an analytical approach to solving problems. Communicates effectively at all levels, collaborates efficiently  in team settings, and is committed to continuing professional development.   
+<br><br>
 
-| [Work](#work) | [Education](#education) | [Recognition](#recognition) | [Languages](#languages) | [Services](#services) | [Skills](#skills) | [Portfolio](#portfolio) | [Reviews](#reviews) |
+| [💼 Work](#work) | [🎓 Education](#education) | [🏆 Recognition](#recognition) | [💬 Languages](#languages) | [🗓️ Services](#services) | [🧑‍💻 Skills](#skills) | [:octocat: Portfolio](#portfolio) | [💌 Reviews](#reviews) |
 |------|-----------|-----------------------|------------------|-----------------------|---------------------|--------------|----------------|
+
+<br>
 
 ## <a name="work"></a> Work 
 
@@ -12,7 +15,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - **Billing Consultant** - Almaviva do Brasil - *2016* 
 - **WordPress Developer** - On Purpose Projects - *2017-2019* 
 - **WordPress Developer** - Codeable - *2021-2022* 
-
+<br>
 
 ## <a name="education"></a> Education 
 
@@ -20,6 +23,8 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010* 
 - Universidade Federal de Viçosa - 2012 - 2014 
 - Estácio de Sá - 2018-2019 
+
+<br>
 
 ## <a name="recognition"></a> Awards & Certificates 
 
@@ -31,12 +36,16 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
   Associação Cultural Brasil - Estados Unidos 
 
+<br>
+
 ## <a name="languages"></a> Languages I Speak
 
 - 🇧🇷 Portuguese 
 - 🇺🇸 English 
 - 🇪🇸 Spanish 
 - 🇫🇷 French 
+
+<br>
 
 ## <a name="services"></a> Services I Offer
 
@@ -45,10 +54,13 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - Theme & plugin customization 
 - Consultation 
 
+<br>
+
 ## <a name="skills"></a> My Programming Skills 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoangelim&layout=compact)
 
+<br>
 
 ## Other Skills I Have
 
@@ -76,6 +88,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 - Plugin Development
 - Site Migration 
 
+<br>
 
 ## <a name="portfolio"></a>My Portfolio 
 
@@ -86,7 +99,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 [View more](https://github.com/diogoangelim?tab=repositories)
 
-
+<br>
 
 ## <a name="reviews"> Client Reviews </a>
 
@@ -151,3 +164,4 @@ In addition to the original scope of the project, there were many additional tas
 
 *Rudolfs Dzenis*
 
+<br><br>

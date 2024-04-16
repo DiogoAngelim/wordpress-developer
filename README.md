@@ -7,8 +7,9 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 <br><br>
 
-| [💼 Work](#work) | [🎓 Education](#education) | [🏆 Recognition](#recognition) | [💬 Languages](#languages) | [🗓️ Services](#services) | [🧑‍💻 Skills](#skills) | [:octocat: Portfolio](#portfolio) | [💌 Reviews](#reviews) |
+| [Work](#work) | [Education](#education) | [Recognition](#recognition) | [Languages](#languages) | [Services](#services) | [Skills](#skills) | [Portfolio](#portfolio) | [Reviews](#reviews) |
 |------|-----------|-----------------------|------------------|-----------------------|---------------------|--------------|----------------|
+
 
 <br>
 

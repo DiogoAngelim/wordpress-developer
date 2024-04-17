@@ -17,7 +17,7 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 - **Marketing Assistant Volunteer** - AIESEC - *2014* 
 - **Billing Consultant** - Almaviva do Brasil - *2016* 
-- **WordPress Developer** - On Purpose Projects - *2017-2019* 
+- **Full-Stack Developer** - On Purpose Projects - *2017-2019* 
 - **WordPress Developer** - Codeable - *2021-2022* 
 <br>
 

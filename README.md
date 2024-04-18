@@ -89,31 +89,9 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 <br>
 
-### Blitz Design
-
-<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/>
-
-<br>
-
-### My freight
-
-<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/>
-
-<br>
-
-### Speedio
-
-<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>
-
-<br>
-
-### Prophecy
-
-<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/>
-
-<br>
-
-### Other
+| <br>**Blitz Design<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/>** | <br>**My Freight<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/>** |
+|:---:|:---:|
+| <br>**Speedio<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>** | <br>**Prophecy<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/>** |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=optimalstocks)](https://github.com/diogoangelim/optimalstocks/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=bybumi)](https://github.com/diogoangelim/bybumi/)

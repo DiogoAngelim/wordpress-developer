@@ -87,6 +87,29 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## <a name="portfolio"></a>My Portfolio 
 
+<br>
+
+## Blitz Design
+![Blitz Design](https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true)
+
+<br>
+
+### My freight
+
+![My Freight](https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true)
+
+<br>
+
+### Speedio
+
+![Speedio](https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true)
+
+<br>
+
+### Prophecy
+
+![Prophecy](https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=optimalstocks)](https://github.com/diogoangelim/optimalstocks/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=bybumi)](https://github.com/diogoangelim/bybumi/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=webdifferent-ui)](https://github.com/diogoangelim/webdifferent-ui/)
@@ -97,6 +120,8 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 <br>
 
 ## <a name="reviews"> Client Reviews </a>
+
+<br>
 
 <details>
   <summary><b>Add Date Filtering to Plugin</b><i> 08 Dec 2021</i> ⭐⭐⭐⭐⭐</summary>

@@ -64,24 +64,24 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 ## Other Skills I Have
 
-[![D3.js](https://img.shields.io/badge/d3.js-<COLOR>.svg)](https://shields.io/)
-[![Regex](https://img.shields.io/badge/regex-<COLOR>.svg)](https://shields.io/)
-[![Accessibility](https://img.shields.io/badge/accessibility-<COLOR>.svg)](https://shields.io/)
-[![Responsive Design](https://img.shields.io/badge/responsive%20design-<COLOR>.svg)](https://shields.io/)
-[![MySQL](https://img.shields.io/badge/mysql-<COLOR>.svg)](https://shields.io/)
-[![CMS](https://img.shields.io/badge/sql-<COLOR>.svg)](https://shields.io/)
-[![SVG](https://img.shields.io/badge/svg-<COLOR>.svg)](https://shields.io/)
-[![Node.js](https://img.shields.io/badge/node.js-<COLOR>.svg)](https://shields.io/)
-[![ES6](https://img.shields.io/badge/es6-<COLOR>.svg)](https://shields.io/)
-[![CRM Integration](https://img.shields.io/badge/crm%20integration-<COLOR>.svg)](https://shields.io/)
-[![API Integration](https://img.shields.io/badge/api%20integration-<COLOR>.svg)](https://shields.io/)
-[![Shell script](https://img.shields.io/badge/shell-<COLOR>.svg)](https://shields.io/)
-[![Gutenberg](https://img.shields.io/badge/gutenberg-<COLOR>.svg)](https://shields.io/)
-[![Git](https://img.shields.io/badge/git-<COLOR>.svg)](https://shields.io/)
-[![Gulp](https://img.shields.io/badge/gulp-<COLOR>.svg)](https://shields.io/)
-[![WooCommerce](https://img.shields.io/badge/woocommerce-<COLOR>.svg)](https://shields.io/)
-[![Animations](https://img.shields.io/badge/animations-<COLOR>.svg)](https://shields.io/)
-[![DNS setup](https://img.shields.io/badge/dns%20setup-<COLOR>.svg)](https://shields.io/)
+[![D3.js](https://img.shields.io/badge/d3.js-b897ff.svg)](https://shields.io/)
+[![Regex](https://img.shields.io/badge/regex-b897ff.svg)](https://shields.io/)
+[![Accessibility](https://img.shields.io/badge/accessibility-b897ff.svg)](https://shields.io/)
+[![Responsive Design](https://img.shields.io/badge/responsive%20design-b897ff.svg)](https://shields.io/)
+[![MySQL](https://img.shields.io/badge/mysql-b897ff.svg)](https://shields.io/)
+[![CMS](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
+[![SVG](https://img.shields.io/badge/svg-b897ff.svg)](https://shields.io/)
+[![Node.js](https://img.shields.io/badge/node.js-b897ff.svg)](https://shields.io/)
+[![ES6](https://img.shields.io/badge/es6-b897ff.svg)](https://shields.io/)
+[![CRM Integration](https://img.shields.io/badge/crm%20integration-b897ff.svg)](https://shields.io/)
+[![API Integration](https://img.shields.io/badge/api%20integration-b897ff.svg)](https://shields.io/)
+[![Shell script](https://img.shields.io/badge/shell-b897ff.svg)](https://shields.io/)
+[![Gutenberg](https://img.shields.io/badge/gutenberg-b897ff.svg)](https://shields.io/)
+[![Git](https://img.shields.io/badge/git-b897ff.svg)](https://shields.io/)
+[![Gulp](https://img.shields.io/badge/gulp-b897ff.svg)](https://shields.io/)
+[![WooCommerce](https://img.shields.io/badge/woocommerce-b897ff.svg)](https://shields.io/)
+[![Animations](https://img.shields.io/badge/animations-b897ff.svg)](https://shields.io/)
+[![DNS setup](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
 
 <br>
 
@@ -89,33 +89,38 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 
 <br>
 
-## Blitz Design
-![Blitz Design](https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true)
+### Blitz Design
+
+<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/>
 
 <br>
 
 ### My freight
 
-![My Freight](https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true)
+<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/>
 
 <br>
 
 ### Speedio
 
-![Speedio](https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true)
+<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>
 
 <br>
 
 ### Prophecy
 
-![Prophecy](https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true)
+<img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/>
+
+<br>
+
+### Other
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=optimalstocks)](https://github.com/diogoangelim/optimalstocks/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=bybumi)](https://github.com/diogoangelim/bybumi/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=webdifferent-ui)](https://github.com/diogoangelim/webdifferent-ui/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=sharkbay)](https://github.com/diogoangelim/sharkbay/)
 
-[View more](https://github.com/diogoangelim?tab=repositories)
+<a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/View%20More-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
 
 <br>
 

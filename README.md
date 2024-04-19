@@ -106,6 +106,45 @@ An ambitious and results-driven Web Developer with extensive experience in devel
 <br>
 
 <details>
+  <summary><b>Wordpress customization</b><i> 01 Nov 2019</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  
+I've been hiring developers for years, but Diogo is by far the best one I've ever worked with. He is always available to talk and always sends updates regarding the project. If all developers were like him, it would make my life much easier.
+
+The code and consistency of all the project were amazing and it really surprised the management with all the suggestions he gave us. The project was delivered 2 days before the deadline.
+
+Will be hiring again for sure!
+
+Thanks Diogo!
+  <br><br>
+  <i>Matheus Oliveira<i>
+</details>
+
+<details>
+  <summary><b>Text animation using CSS and JavaScript</b><i> 05 Jun 2019</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Diogo, did an excellent job and came up with great work arounds to challenges.
+Great to have a developer that understands design.
+
+Will work with Diogo again for sure!
+  <br><br>
+  <img src="jenna.png" alt="Jenna Farrell" style="width:64px;"/>
+  <br>
+  <i>Jenna Farrell<i>
+</details>
+
+
+<details>
+  <summary><b>AWebsite edits and custom animation</b><i> 01 Apr 2019</i> ⭐⭐⭐⭐⭐</summary>
+  <br>
+  Diogo does excellent website work and always delivers on time. I appreciate that he works very hard to deliver top quality.
+  <br><br>
+  <img src="natasha.png" alt="Natasha Golinsky" style="width:64px;"/>
+  <br>
+  <i>Natasha Golinsky<i>
+</details>
+
+<details>
   <summary><b>Add Date Filtering to Plugin</b><i> 08 Dec 2021</i> ⭐⭐⭐⭐⭐</summary>
   <br>
   Diogo delivered above and beyond what was expected. 

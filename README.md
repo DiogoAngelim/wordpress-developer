@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=👋%20Hello,%20I%20am%20Diogo&fontSize=90&color=a8becc)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=👋%20Hello,%20I%20am%20Diogo&fontSize=90)
 
 ## About
 

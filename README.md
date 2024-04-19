@@ -4,7 +4,7 @@
 
 <br>
 
-A visionary Web Developer fueled by ambition and a relentless pursuit of results. Armed with a wealth of expertise, specializing in crafting dynamic WordPress solutions across diverse platforms. A fervent enthusiast of finance, health, and technology, this developer operates with precision, leaving no detail unchecked. With a firm grasp of the Software Development Lifecycle, they navigate complexities with ease, consistently hitting targets through strategic planning and timely project delivery. My problem-solving prowess is unmatched, blending analytical thinking with creative flair. A master communicator, they seamlessly engage across all echelons, thriving in collaborative team environments while steadfastly dedicated to ongoing professional growth.
+A visionary Web Developer fueled by ambition and a relentless pursuit of results. Armed with a wealth of expertise, specializing in crafting dynamic WordPress solutions across diverse platforms. A fervent enthusiast of finance, health, and technology, I operate with precision, leaving no detail unchecked. With a firm grasp of the Software Development Lifecycle, I navigate complexities with ease, consistently hitting targets through strategic planning and timely project delivery. My problem-solving prowess is unmatched, blending analytical thinking with creative flair. A master communicator, I seamlessly engage across all echelons, thriving in collaborative team environments while steadfastly dedicated to ongoing professional growth.
 
 <br><br>
 

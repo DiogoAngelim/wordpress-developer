@@ -16,6 +16,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 ## <a name="work"></a> Work 
 
 <br>
+
 - **Marketing Assistant Volunteer** - AIESEC - *2014*
 
   Ignited social media buzz with engaging content wizardry; Crafted email campaigns that dazzled inboxes and hearts; Wielded design magic, making brands pop in a crowded digital world; Masterminded events that turned heads and packed venues; Unearthed marketing gold through savvy research and analysis.

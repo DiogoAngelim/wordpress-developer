@@ -8,7 +8,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br><br>
 
-| [💼 Work](#work) | [🎓 Education](#education) | [🏆 Recognition](#recognition) | [💬 Languages](#languages) | [🗓️ Services](#services) | [🧑‍💻 Skills](#skills) | [:octocat: Portfolio](#portfolio) | [💌 Reviews](#reviews) |
+| [💼 Work](#work) | [🎓 Education](#education) | [💬 Languages](#languages) | [🗓️ Services](#services) | [🧑‍💻 Skills](#skills) | [:octocat: Portfolio](#portfolio) | [🏆 Recognition](#recognition) | [💌 Reviews](#reviews) |
 |------|-----------|-----------------------|------------------|-----------------------|---------------------|--------------|----------------|
 
 <br>
@@ -39,6 +39,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 ## <a name="education"></a> Education 
 
+<br>
+
 - **English Language** - Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
 - **Software Engineering** - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010* 
 - **Economics** - Universidade Federal de Viçosa - *2012 - 2014* 
@@ -46,14 +48,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-## <a name="recognition"></a> Awards & Certificates 
-
-| **WordPress Expert**  <br><br> [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos') |
-|---|---|
+## <a name="languages"></a> Languages I Speak
 
 <br>
-
-## <a name="languages"></a> Languages I Speak
 
 - 🇧🇷 Portuguese 
 - 🇺🇸 English 
@@ -74,11 +71,15 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 ## <a name="skills"></a> My Programming Skills 
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoangelim&layout=compact)
 
 <br>
 
 ## Other Skills I Have
+
+<br>
 
 [![D3.js](https://img.shields.io/badge/d3.js-b897ff.svg)](https://shields.io/)
 [![Regex](https://img.shields.io/badge/regex-b897ff.svg)](https://shields.io/)
@@ -115,6 +116,15 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=sharkbay)](https://github.com/diogoangelim/sharkbay/)
 
 <a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Delve%20Deeper-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
+
+<br>
+
+## <a name="recognition"></a> Awards & Certificates 
+
+<br>
+
+| **WordPress Expert**  <br><br> [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos') |
+|---|---|
 
 <br>
 

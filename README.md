@@ -64,10 +64,11 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 ## <a name="services"></a> Services I Offer
 
-- Theme & Plugin development 
-- Theme & plugin customization
-- Ecommerce Development
-- Speed Optimization 
+<br>
+
+| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/coding.png?raw=true" alt="Theme & Plugin Coding" style="width:80px;"/><br><br>**Themes & Plugins Coding<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/customization.png?raw=true" alt="Themes & Plugins Customization" style="width:80px;"/><br><br>**Themes & Plugins Customization**<br><br> |
+|:---:|:---:|
+| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/design.png?raw=true" alt="WordPress Design" style="width:80px;"/><br><br>**WordPress Design<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/seo.png?raw=true" alt="SEO" style="width:80px;"/><br><br>**SEO** <br><br>|
 
 <br>
 

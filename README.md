@@ -15,10 +15,25 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 ## <a name="work"></a> Work 
 
-- **Marketing Assistant Volunteer** - AIESEC - *2014* 
-- **Billing Consultant** - Almaviva do Brasil - *2016* 
-- **Full-Stack Developer** - On Purpose Projects - *2017-2019* 
-- **WordPress Developer** - Codeable - *2021-2022* 
+<br>
+- **Marketing Assistant Volunteer** - AIESEC - *2014*
+
+  Ignited social media buzz with engaging content wizardry; Crafted email campaigns that dazzled inboxes and hearts; Wielded design magic, making brands pop in a crowded digital world; Masterminded events that turned heads and packed venues; Unearthed marketing gold through savvy research and analysis.
+
+- **Billing Consultant** - Almaviva do Brasil - *2016*
+
+  Crafted bespoke billing solutions, turning clients into raving fans; Engineered seamless processes for a client journey like no other; Garnered rave reviews for service excellence, setting the bar high; Customized billing strategies, forging unbreakable client bonds; Swooped in like a hero to resolve client concerns, ensuring smiles all around.
+- **Full-Stack Developer** - On Purpose Projects Agency - *2017-2019*
+
+  Crafted an exceptional high-traffic website, elevating user engagement to new heights;
+  Engineered deployment optimizations using the magic of Continuous Integration/Continuous Deployment (CI/CD);
+  Dazzled the webosphere with a flawless website launch, hitting all the right notes;
+  Turbocharged website performance, delivering lightning-fast speed and responsiveness;
+  Fortified defenses with GDPR/HIPAA-compliant security sorcery, ensuring digital tranquility.
+
+- **WordPress Developer** - Codeable - *2021-2022*
+
+  Unveiled cutting-edge WordPress themes, transforming brands with style and functionality; Engineered dynamic plugins, empowering websites with seamless features and flexibility; Unleashed lightning-fast development workflows, breathing life into projects with warp speed; Enhanced website functionality for optimal user experiences, setting new industry standards; Delivered white-glove client support, ensuring satisfaction across the digital landscape.
 <br>
 
 ## <a name="education"></a> Education 

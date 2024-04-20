@@ -113,7 +113,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=webdifferent-ui)](https://github.com/diogoangelim/webdifferent-ui/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=sharkbay)](https://github.com/diogoangelim/sharkbay/)
 
-<a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/View%20More-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
+<a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/View%20Some%20More!-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
 
 <br>
 

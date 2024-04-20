@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=👋%20Hello,%20I%20am%20Diogo&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=👋%20Hello,%20I%20am%20Diogo&fontSize=90)
+<br><br><br>
 ## About
 
 <br>

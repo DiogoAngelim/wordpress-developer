@@ -87,7 +87,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Regex](https://img.shields.io/badge/regex-b897ff.svg)](https://shields.io/)
 [![Accessibility](https://img.shields.io/badge/accessibility-b897ff.svg)](https://shields.io/)
 [![Responsive Design](https://img.shields.io/badge/responsive%20design-b897ff.svg)](https://shields.io/)
-[![SQL Server](https://img.shields.io/badge/mysql-b897ff.svg)](https://shields.io/)
+[![SQL Server](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
 [![CMS](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
 [![SVG](https://img.shields.io/badge/svg-b897ff.svg)](https://shields.io/)
 [![Node.js](https://img.shields.io/badge/node.js-b897ff.svg)](https://shields.io/)
@@ -118,7 +118,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=webdifferent-ui)](https://github.com/diogoangelim/webdifferent-ui/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=sharkbay)](https://github.com/diogoangelim/sharkbay/)
 
-<a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Delve%20Deeper-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
+<a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Dive%20Deeper-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
 
 <br>
 
@@ -126,8 +126,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| **WordPress Expert**  <br><br> [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos') |
-|---|---|
+| **WordPress Expert**  <br><br> [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos') | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> |
+|---|---|---|
 
 <br>
 

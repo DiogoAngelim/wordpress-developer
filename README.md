@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=👋%20Houston,%20I%20am%20Diogo!&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=👋%20Sup,%20I%20am%20Diogo!&fontSize=80)
 <br><br><br>
 ## Inside Scoop
 
@@ -82,23 +82,26 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 <br>
 
 [![D3.js](https://img.shields.io/badge/d3.js-b897ff.svg)](https://shields.io/)
+[![Typescript](https://img.shields.io/badge/typescript-b897ff.svg)](https://shields.io/)
+[![Docker](https://img.shields.io/badge/docker-b897ff.svg)](https://shields.io/)
 [![Regex](https://img.shields.io/badge/regex-b897ff.svg)](https://shields.io/)
 [![Accessibility](https://img.shields.io/badge/accessibility-b897ff.svg)](https://shields.io/)
 [![Responsive Design](https://img.shields.io/badge/responsive%20design-b897ff.svg)](https://shields.io/)
-[![MySQL](https://img.shields.io/badge/mysql-b897ff.svg)](https://shields.io/)
+[![SQL Server](https://img.shields.io/badge/mysql-b897ff.svg)](https://shields.io/)
 [![CMS](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
 [![SVG](https://img.shields.io/badge/svg-b897ff.svg)](https://shields.io/)
 [![Node.js](https://img.shields.io/badge/node.js-b897ff.svg)](https://shields.io/)
-[![ES6](https://img.shields.io/badge/es6-b897ff.svg)](https://shields.io/)
+[![esnext](https://img.shields.io/badge/es6-b897ff.svg)](https://shields.io/)
 [![CRM Integration](https://img.shields.io/badge/crm%20integration-b897ff.svg)](https://shields.io/)
 [![API Integration](https://img.shields.io/badge/api%20integration-b897ff.svg)](https://shields.io/)
 [![Shell script](https://img.shields.io/badge/shell-b897ff.svg)](https://shields.io/)
 [![Gutenberg](https://img.shields.io/badge/gutenberg-b897ff.svg)](https://shields.io/)
+[![React](https://img.shields.io/badge/react-b897ff.svg)](https://shields.io/)
 [![Git](https://img.shields.io/badge/git-b897ff.svg)](https://shields.io/)
 [![Gulp](https://img.shields.io/badge/gulp-b897ff.svg)](https://shields.io/)
 [![WooCommerce](https://img.shields.io/badge/woocommerce-b897ff.svg)](https://shields.io/)
 [![Animations](https://img.shields.io/badge/animations-b897ff.svg)](https://shields.io/)
-[![DNS setup](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
+[![DNS](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
 
 <br>
 

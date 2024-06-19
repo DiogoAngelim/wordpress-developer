@@ -113,11 +113,6 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 |:---:|:---:|
 | <br>**Speedio<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>** | <br>**Prophecy<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/>** |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=optimalstocks)](https://github.com/diogoangelim/optimalstocks/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=bybumi)](https://github.com/diogoangelim/bybumi/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=webdifferent-ui)](https://github.com/diogoangelim/webdifferent-ui/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogoangelim&repo=sharkbay)](https://github.com/diogoangelim/sharkbay/)
-
 <a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Dive%20Deeper-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
 
 <br>

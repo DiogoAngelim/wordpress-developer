@@ -4,7 +4,7 @@
 
 <br>
 
-A visionary Web Developer fueled by ambition and a relentless pursuit of results. Armed with a wealth of expertise, specializing in crafting dynamic WordPress solutions across diverse platforms. A fervent enthusiast of finance, health, and technology, I operate with precision, leaving no detail unchecked. With a firm grasp of the Software Development Lifecycle, I navigate complexities with ease, consistently hitting targets through strategic planning and timely project delivery. My problem-solving prowess is unmatched, blending analytical thinking with creative flair. A master communicator, I seamlessly engage across all echelons, thriving in collaborative team environments while steadfastly dedicated to ongoing professional growth.
+A visionary Web Developer fueled by ambition and a relentless pursuit of results. Armed with a wealth of expertise, specializing in crafting dynamic WordPress solutions across diverse platforms. A genuine enthusiast of finance, health, and technology, I operate with precision, leaving no detail unchecked. With a firm grasp of the Software Development Lifecycle, I navigate complexities with ease, consistently hitting targets through strategic planning and timely project delivery. My problem-solving prowess is unmatched, blending analytical thinking with creative flair. A master communicator, I seamlessly engage across all echelons, thriving in collaborative team environments while steadfastly dedicated to ongoing professional growth.
 
 <br><br>
 
@@ -102,6 +102,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![WooCommerce](https://img.shields.io/badge/woocommerce-b897ff.svg)](https://shields.io/)
 [![Animations](https://img.shields.io/badge/animations-b897ff.svg)](https://shields.io/)
 [![DNS](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
+[![Jest](https://img.shields.io/badge/jest-b897ff.svg)](https://shields.io/)
 
 <br>
 

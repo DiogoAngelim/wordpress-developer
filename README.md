@@ -88,7 +88,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Accessibility](https://img.shields.io/badge/accessibility-b897ff.svg)](https://shields.io/)
 [![Responsive Design](https://img.shields.io/badge/responsive%20design-b897ff.svg)](https://shields.io/)
 [![SQL Server](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
-[![CMS](https://img.shields.io/badge/sql-b897ff.svg)](https://shields.io/)
+[![CMS](https://img.shields.io/badge/cms-b897ff.svg)](https://shields.io/)
 [![SVG](https://img.shields.io/badge/svg-b897ff.svg)](https://shields.io/)
 [![Node.js](https://img.shields.io/badge/node.js-b897ff.svg)](https://shields.io/)
 [![esnext](https://img.shields.io/badge/esnext-b897ff.svg)](https://shields.io/)

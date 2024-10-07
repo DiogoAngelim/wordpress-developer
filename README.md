@@ -24,7 +24,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 - **Billing Consultant** - Almaviva do Brasil - *2016*
 
   Crafted bespoke billing solutions, turning clients into raving fans; Engineered seamless processes for a client journey like no other; Garnered rave reviews for service excellence, setting the bar high; Customized billing strategies, forging unbreakable client bonds; Swooped in like a hero to resolve client concerns, ensuring smiles all around.
-- **Full-Stack Developer** - On Purpose Projects Agency - *2017-2019*
+- **Full-Stack Developer** - On Purpose Projects Agency - *2017-2021*
 
   Crafted an exceptional high-traffic website, elevating user engagement to new heights;
   Engineered deployment optimizations using the magic of Continuous Integration/Continuous Deployment (CI/CD);

@@ -32,7 +32,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   Turbocharged website performance, delivering lightning-fast speed and responsiveness;
   Fortified defenses with GDPR/HIPAA-compliant security sorcery, ensuring digital tranquility.
 
-- **WordPress Developer** - Codeable - *2021-2022*
+- **WordPress Expert Developer** - Codeable - *2021-2022*
 
   Unveiled cutting-edge WordPress themes, transforming brands with style and functionality; Engineered dynamic plugins, empowering websites with seamless features and flexibility; Unleashed lightning-fast development workflows, breathing life into projects with warp speed; Enhanced website functionality for optimal user experiences, setting new industry standards; Delivered white-glove client support, ensuring satisfaction across the digital landscape.
 <br>
@@ -52,10 +52,10 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-- 🇧🇷 Portuguese 
+- 🇧🇷 Português 
 - 🇺🇸 English 
-- 🇪🇸 Spanish 
-- 🇫🇷 French 
+- 🇪🇸 Español
+- 🇫🇷 Français 
 
 <br>
 
@@ -63,9 +63,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/coding.png?raw=true" alt="Theme & Plugin Coding" style="width:80px;"/><br><br>**Themes & Plugins Coding<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/customization.png?raw=true" alt="Themes & Plugins Customization" style="width:80px;"/><br><br>**Themes & Plugins Customization**<br><br> |
+| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/coding.png?raw=true" alt="Theme & Plugin Coding" style="width:80px;"/><br><br>**Coding<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/customization.png?raw=true" alt="Themes & Plugins Customization" style="width:80px;"/><br><br>**Customization**<br><br> |
 |:---:|:---:|
-| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/design.png?raw=true" alt="WordPress Design" style="width:80px;"/><br><br>**WordPress Design<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/seo.png?raw=true" alt="SEO" style="width:80px;"/><br><br>**SEO** <br><br>|
+| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/design.png?raw=true" alt="WordPress Design" style="width:80px;"/><br><br>**Design<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/seo.png?raw=true" alt="SEO" style="width:80px;"/><br><br>**SEO** <br><br>|
 
 <br>
 
@@ -162,7 +162,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 <details>
   <summary><b>Pushing Local Pickup Plus options to Shipping.</b><i> 01 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
   <br>
-  Fast, and super easy to work with. Work was completed to a high standard 
+  Fast, and super easy to work with. Work was completed to a high standard.
   <br><br>
   <img src="adam.png" alt="Adam Selley" style="width:64px;"/>
   <br>

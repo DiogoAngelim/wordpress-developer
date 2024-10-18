@@ -35,7 +35,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 - **WordPress Expert Developer** - Codeable - *2021-2022*
 
   Unveiled cutting-edge WordPress themes, transforming brands with style and functionality; Engineered dynamic plugins, empowering websites with seamless features and flexibility; Unleashed lightning-fast development workflows, breathing life into projects with warp speed; Enhanced website functionality for optimal user experiences, setting new industry standards; Delivered white-glove client support, ensuring satisfaction across the digital landscape.
-<br>
+
 - **Open Source Contributor** - Naubly - *2022-current*
 
   Engaged with a vibrant community of developers and users, driving collaboration and knowledge sharing through npm and GitHub, and transforming innovative ideas into reality.

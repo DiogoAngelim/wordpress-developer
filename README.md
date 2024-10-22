@@ -115,7 +115,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| <br>**Blitz Design<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/>** | <br>**My Freight<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/>** |
+| <br>**Blitz Design<br><br><a href="https://codepen.io/digelim/pen/wbOggK" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/></a>** | <br>**My Freight<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/>** |
 |:---:|:---:|
 | <br>**Speedio<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>** | <br>**Prophecy<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/>** |
 

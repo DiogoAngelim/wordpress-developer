@@ -115,9 +115,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| <br>**Blitz Design<br><br><a href="https://codepen.io/digelim/pen/wbOggK" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/></a>** | <br>**My Freight<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/>** |
+| <br>**Blitz Design<br><br><a href="https://codepen.io/digelim/pen/wbOggK" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/></a>** | <br>**My Freight<br><br><a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/></a>** |
 |:---:|:---:|
-| <br>**Speedio<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>** | <br>**Prophecy<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/>** |
+| <br>**Speedio<br><br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" style="width:400px;"/>** | <br>**Prophecy<br><br><a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/></a>** |
 
 <a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Dive%20Deeper-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
 

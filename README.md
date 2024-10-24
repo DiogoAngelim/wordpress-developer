@@ -68,9 +68,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/coding.png?raw=true" alt="Theme & Plugin Coding" style="width:80px;"/><br><br>**Coding<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/customization.png?raw=true" alt="Themes & Plugins Customization" style="width:80px;"/><br><br>**Customization**<br><br> |
+| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/coding.png?raw=true" alt="Design" style="width:80px;"/><br><br>**Design<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/customization.png?raw=true" alt="Customization" style="width:80px;"/><br><br>**Customization**<br><br> |
 |:---:|:---:|
-| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/design.png?raw=true" alt="WordPress Design" style="width:80px;"/><br><br>**Design<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/seo.png?raw=true" alt="SEO" style="width:80px;"/><br><br>**SEO** <br><br>|
+| <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/design.png?raw=true" alt="WordPress Design" style="width:80px;"/><br><br>**Coding<br><br>** | <br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/seo.png?raw=true" alt="SEO" style="width:80px;"/><br><br>**SEO** <br><br>|
 
 <br>
 

@@ -129,7 +129,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| **WordPress Expert**  <br><br> [![Codeable](codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | <a href="https://www.codementor.io/@diogo_angelim?refer=badge"><img width="300" src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor badge"></a>
+| **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | <a href="https://www.codementor.io/@diogo_angelim?refer=badge"><img width="300" src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor badge"></a>
 |---|---|---|---|
 
 <br>
@@ -151,7 +151,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project!
   <br><br>
-  <img src="robert.png" alt="Robert Johnson" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/robert.png" alt="Robert Johnson" style="width:64px;"/>
   <br>
   <i>Robert Johnson<i>
 </details>
@@ -161,7 +161,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   Diogo is very efficient. He listened patiently to all my needs and helped me out to accomplish what I exactly wanted. And he always replied in an hour! This is really amazing. 
   <br><br>
-  <img src="carman.png" alt="Carman Chung" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/carman.png" alt="Carman Chung" style="width:64px;"/>
   <br>
   <i>Carman Chung<i>
 </details>
@@ -171,7 +171,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   Fast, and super easy to work with. Work was completed to a high standard.
   <br><br>
-  <img src="adam.png" alt="Adam Selley" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/adam.png" alt="Adam Selley" style="width:64px;"/>
   <br>
   <i>Adam Selley<i>
 </details>
@@ -181,7 +181,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   Helpful call with Diogo as he helped me scope out my project and contributed new and interesting  insights that can be used in the project! 
   <br><br>
-  <img src="joe.png" alt="Joe Robison" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/joe.png" alt="Joe Robison" style="width:64px;"/>
   <br>
   <i>Joe Robison<i>
 </details>
@@ -191,7 +191,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   Diogo is the website help I have been looking for. By far the best person I've hired yet to help me. 
   <br><br>
-  <img src="shane.png" alt="Shane Baker" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/shane.png" alt="Shane Baker" style="width:64px;"/>
   <br>
   <i>Shane Baker<i>
 </details>
@@ -201,7 +201,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 
   <br><br>
-  <img src="rudolfs.png" alt="Rudlfs Dzenis" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/rudolfs.png" alt="Rudlfs Dzenis" style="width:64px;"/>
   <br>
   <i>Rudolfs Dzenis<i>
 </details>
@@ -229,7 +229,7 @@ Great to have a developer that understands design.
 
 Will work with Diogo again for sure!
   <br><br>
-  <img src="jenna.png" alt="Jenna Farrell" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/jenna.png" alt="Jenna Farrell" style="width:64px;"/>
   <br>
   <i>Jenna Farrell<i>
 </details>
@@ -240,7 +240,7 @@ Will work with Diogo again for sure!
   <br>
   Diogo does excellent website work and always delivers on time. I appreciate that he works very hard to deliver top quality.
   <br><br>
-  <img src="natasha.png" alt="Natasha Golinsky" style="width:64px;"/>
+  <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/natasha.png" alt="Natasha Golinsky" style="width:64px;"/>
   <br>
   <i>Natasha Golinsky<i>
 </details>

@@ -106,6 +106,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Gulp](https://img.shields.io/badge/gulp-b897ff.svg)](https://shields.io/)
 [![WooCommerce](https://img.shields.io/badge/woocommerce-b897ff.svg)](https://shields.io/)
 [![Animations](https://img.shields.io/badge/animations-b897ff.svg)](https://shields.io/)
+[![WebSockets](https://img.shields.io/badge/websockets-b897ff.svg)](https://shields.io/)
 [![DNS](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
 [![Jest](https://img.shields.io/badge/jest-b897ff.svg)](https://shields.io/)
 

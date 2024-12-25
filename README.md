@@ -109,6 +109,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![WebSockets](https://img.shields.io/badge/websockets-b897ff.svg)](https://shields.io/)
 [![DNS](https://img.shields.io/badge/dns%20setup-b897ff.svg)](https://shields.io/)
 [![Jest](https://img.shields.io/badge/jest-b897ff.svg)](https://shields.io/)
+[![Crypto](https://img.shields.io/badge/crypto-b897ff.svg)](https://shields.io/)
 
 <br>
 

@@ -131,8 +131,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | <a href="https://www.codementor.io/@diogo_angelim?refer=badge"><img width="300" src="https://www.codementor.io/m-badges/diogo_angelim/im-a-cm-b.svg" alt="Codementor badge"></a>
-|---|---|---|---|
+| **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> |
+|---|---|---|
+
 
 <br>
 

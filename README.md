@@ -19,8 +19,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 - **Open Source Contributor** - Naubly - *2022-current*
 
-  Engaged with a vibrant community of developers and users, driving collaboration and knowledge sharing through npm and GitHub, and transforming innovative ideas into reality.
-  
+  Engaged with a vibrant community of developers and users, driving collaboration and knowledge sharing through npm and GitHub, contributing to packages like [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx), and transforming innovative ideas into reality.
+
 - **WordPress Development Expert** - Codeable Aps - *2021-2022*
 
   Unveiled cutting-edge WordPress themes, transforming brands with style and functionality; Engineered dynamic plugins, empowering websites with seamless features and flexibility; Unleashed lightning-fast development workflows, breathing life into projects with warp speed; Enhanced website functionality for optimal user experiences, setting new industry standards; Delivered white-glove client support, ensuring satisfaction across the digital landscape.

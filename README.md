@@ -46,10 +46,11 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-- **English Language** - Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
-- **Software Engineering** - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010* 
+- **Computer Science** - Estácio de Sá - *2018 - 2019*
 - **Economics** - Universidade Federal de Viçosa - *2012 - 2014* 
-- **Computer Science** - Estácio de Sá - *2018 - 2019* 
+- **Software Engineering** - Instituto Federal de Educação, Ciência e Tecnologia - *2008 - 2010*
+- **English Language** - Associação Cultural Brasil - Estados Unidos - *2004 - 2010* 
+
 
 <br>
 
@@ -60,7 +61,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 - 🇧🇷 Português 
 - 🇺🇸 English 
 - 🇪🇸 Español
-- 🇫🇷 Français 
+- 🇫🇷 Français
 
 <br>
 

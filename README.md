@@ -8,24 +8,23 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br><br>
 
-| [💼 Work](#work) | [🎓 Education](#education) | [💬 Languages](#languages) | [🗓️ Services](#services) | [🧑‍💻 Skills](#skills) | [:octocat: Portfolio](#portfolio) | [🏆 Recognition](#recognition) | [💌 Reviews](#reviews) |
-|------|-----------|-----------------------|------------------|-----------------------|---------------------|--------------|----------------|
-
-<br>
-
 ## <a name="work"></a> Craft 
 
 <br>
 
-- **Open Source Contributor** - Naubly - *2022-current*
+- **Software Engineer** - UnpairedSocks.org - *20240 - current (part time)*
+
+  At UnpairedSocks.org, I focus on backend development, using my expertise in Software Infrastructure and Engineering to build and maintain robust, efficient systems. With skills in Node.js and WordPress, I develop scalable solutions, optimize performance, and ensure system reliability. My problem-solving approach combines analytical thinking with innovative solutions, allowing me to contribute to the organization's technological growth.
+
+- **Open Source Contributor** - Naubly (Self Employed) - *2022 - current*
 
   Engaged with a vibrant community of developers and users, driving collaboration and knowledge sharing through npm and GitHub, contributing to packages like [`html-to-gutenberg`](https://www.npmjs.com/package/html-to-gutenberg), [`fetch-page-assets`](https://www.npmjs.com/package/fetch-page-assets), and [`node-html-to-jsx`](https://www.npmjs.com/package/node-html-to-jsx), and transforming innovative ideas into reality.
 
-- **WordPress Development Expert** - Codeable Aps - *2021-2022*
+- **WordPress Development Expert** - Codeable Aps - *2021 - 2022*
 
   Unveiled cutting-edge WordPress themes, transforming brands with style and functionality; Engineered dynamic plugins, empowering websites with seamless features and flexibility; Unleashed lightning-fast development workflows, breathing life into projects with warp speed; Enhanced website functionality for optimal user experiences, setting new industry standards; Delivered white-glove client support, ensuring satisfaction across the digital landscape.
 
-- **Full Stack Web Developer** - On Purpose Projects Agency - *2017-2021*
+- **Full Stack Web Developer** - On Purpose Projects Agency - *2017 - 2021*
 
   Crafted an exceptional high-traffic website, elevating user engagement to new heights;
   Engineered deployment optimizations using the magic of Continuous Integration/Continuous Deployment (CI/CD);
@@ -133,8 +132,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> |
+| **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
 |---|---|---|
+
 
 
 <br>

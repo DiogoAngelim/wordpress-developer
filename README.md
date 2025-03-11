@@ -12,7 +12,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-- **Software Engineer** - UnpairedSocks.org - *20240 - current (part time)*
+- **Software Engineer** - UnpairedSocks.org - *2024 - current (part time)*
 
   At UnpairedSocks.org, I focus on backend development, using my expertise in Software Infrastructure and Engineering to build and maintain robust, efficient systems. With skills in Node.js and WordPress, I develop scalable solutions, optimize performance, and ensure system reliability. My problem-solving approach combines analytical thinking with innovative solutions, allowing me to contribute to the organization's technological growth.
 

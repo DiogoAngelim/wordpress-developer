@@ -137,8 +137,9 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br>
 
-| **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
-|---|---|---|
+| <br>**Machine Learning** <br><br><img alt="Machine Learning" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/refs/heads/main/machine-learning.png" width="450px"> | **WordPress Expert**  <br><br> [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) | <br>**Meteor & React** <br><br><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | <br>**Advanced English** <br><br>[![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
+|---|---|---|---|
+
 
 
 

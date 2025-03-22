@@ -133,25 +133,11 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 <br>
 
 
-<table>
-  <tr>
-    <th style="text-align:center;">Machine Learning</th>
-    <th style="text-align:center;">WordPress Expert</th>
-  </tr>
-  <tr>
-    <td align="center"><img alt="Machine Learning" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/refs/heads/main/machine-learning.png" width="450px"></td>
-    <td align="center"><a href="https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99"><img alt="Codeable" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png" title="Diogo Angelim - Codeable Certified Expert"></a></td>
-  </tr>
-  <tr>
-    <th style="text-align:center;">Meteor & React</th>
-    <th style="text-align:center;">Advanced English</th>
-  </tr>
-  <tr>
-    <td align="center"><img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"></td>
-    <td align="center"><a href="https://acbeujf.com.br/"><img alt="Associação Cultural Brasil - Estados Unidos" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png" title="Associacao Cultural Brasil - Estados Unidos"></a></td>
-  </tr>
-</table>
-
+| **Machine Learning** | **WordPress Expert** |
+|---|---|
+| <img alt="Machine Learning" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/refs/heads/main/machine-learning.png" width="450px"> | [![Codeable](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/codeable.png 'Diogo Angelim - Codeable Certified Expert')](https://www.credential.net/58930281-2568-48db-a5df-a85e40244d6e?record_view=true#gs.7hlu99) |
+| **Meteor & React** | **Advanced English** |
+| <img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | [![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
 
 
 <br>

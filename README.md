@@ -140,8 +140,6 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 | <img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | [![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
 
 
-<br>
-
 ## <a name="reviews"> Client Chronicles </a>
 
 <br>

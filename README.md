@@ -112,21 +112,78 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 [![Crypto](https://img.shields.io/badge/crypto-b897ff.svg)](https://shields.io/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-b897ff.svg)](https://shields.io/)
 
-<br>
+<br/>
 
 ## <a name="portfolio"></a>My Showcase
 
-<br>
+<br/>
+<table>
+  <tr>
+    <td align="center"><strong>Blitz Design</strong></td>
+    <td align="center"><strong>My Freight</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://codepen.io/digelim/pen/wbOggK" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Blitz Design 2.0</strong></td>
+    <td align="center"><strong>Prophecy</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitz-2.0.gif?raw=true" alt="Blitz Design 2.0" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Speedio</strong></td>
+    <td align="center"><strong>Mark MacLeod</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Speedio" width="400"/>
+    </td>
+    <td align="center">
+      <a href="https://web.archive.org/web/20220317124317/https://markmacleod.me/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/mark.png?raw=true" alt="Mark MacLeod" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>B2B Software Advisors</strong></td>
+    <td align="center"><strong>Web Different</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://b2bsoftwareadvisors.com/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank">
+        <img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/w2.gif?raw=true" alt="Web Different" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-| **Blitz Design**<br><a href="https://codepen.io/digelim/pen/wbOggK" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitzdesign.gif?raw=true" alt="Blitz Design" style="width:400px;"/></a> | **My Freight** <br><a href="https://web.archive.org/web/20230326034929/https://myfreight.com.au/" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/myfreight.gif?raw=true" alt="My Freight" style="width:400px;"/></a> |
-|:---:|:---:|
-| **Blitz Design 2.0**<br><a href="https://web.archive.org/web/20220301044510/https://blitzmdesign.com.au/" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/blitz-2.0.gif?raw=true" alt="Blitz Design 2.0" style="width:400px;"/></a> | **Prophecy**<br><a href="https://web.archive.org/web/20200811001303/https://www.prophecy.io/product-page" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/prophecy.png?raw=true" alt="Prophecy" style="width:400px;"/></a> |
-| **Speedio**<br><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/speedio.png?raw=true" alt="Blitz Design" style="width:400px;"/> | **Mark MacLeod** <br><a href="https://web.archive.org/web/20220317124317/https://markmacleod.me/" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/mark.png?raw=true" alt="Mark MacLeod" style="width:400px;"/></a> |
-| **B2B Software Advisors**<br><a href="https://b2bsoftwareadvisors.com/" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/b2b.png?raw=true" alt="B2B Software Advisors" style="width:400px;"/></a> | **Web Different**<br><a href="https://web.archive.org/web/20241001053257/https://webdifferent.com.au/" target="_blank"><img src="https://github.com/DiogoAngelim/diogoangelim/blob/main/w2.gif?raw=true" alt="Web Different" style="width:400px;"/></a> |
 
-<a href="https://github.com/DiogoAngelim?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/Dive%20Deeper-b897ff?link=https%3A%2F%2Fgithub.com%2FDiogoAngelim%3Ftab%3Drepositories" width="100px"></a>
-
-<br>
+<br/>
 
 ## <a name="recognition"></a> Achievement Trophies
 
@@ -139,8 +196,13 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 | **Meteor & React** | **Advanced English** |
 | <img alt="Meteor & React" src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/react-certificate.jpg" width="450px"> | [![Associação Cultural Brasil - Estados Unidos](https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/acbeu.png 'Associacao Cultural Brasil - Estados Unidos')](https://acbeujf.com.br/) |
 
+<br/>
+
+<br/>
 
 ## <a name="reviews"> Client Chronicles </a>
+
+<br/>
 
 <br/>
 
@@ -152,6 +214,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   Paul Morin
 </details>
 
+<br/>
+
 <details>
   <summary><b>PaidMembershipPro to Paid Member Subscriptions</b> 29 Nov 2021 ⭐⭐⭐⭐⭐</summary>
   <br/>
@@ -161,6 +225,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br/>
   Robert Johnson
 </details>
+
+<br/>
 
 <details>
   <summary><b>I need some coding.</b> 19 Nov 2021 ⭐⭐⭐⭐⭐</summary>
@@ -172,6 +238,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   Carman Chung
 </details>
 
+<br/>
+
 <details>
   <summary><b>Pushing Local Pickup Plus options to Shipping.</b> 01 Nov 2021 ⭐⭐⭐⭐⭐</summary>
   <br/>
@@ -181,6 +249,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br/>
   Adam Selley
 </details>
+
+<br/>
 
 <details>
   <summary><b>I need help architecting a 10,000 page site with data-generated pages connected to external APIs.</b> 19 Oct 2021 ⭐⭐⭐⭐⭐</summary>
@@ -192,6 +262,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   Joe Robison
 </details>
 
+<br/>
+
 <details>
   <summary><b>I need spring cleaning on my WordPress website.</b> 07 Oct 2021 ⭐⭐⭐⭐⭐</summary>
   <br/>
@@ -202,6 +274,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   Shane Baker
 </details>
 
+<br/>
+
 <details>
   <summary><b>Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin.)</b> 24 Aug 2021 ⭐⭐⭐⭐⭐</summary>
   <br/>
@@ -211,6 +285,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br/>
   Rudolfs Dzenis
 </details>
+
+<br/>
 
 <details>
   <summary><b>WordPress customization</b> 01 Nov 2019 ⭐⭐⭐⭐⭐</summary>
@@ -226,6 +302,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   Matheus Oliveira
 </details>
 
+<br/>
+
 <details>
   <summary><b>Text animation using CSS and JavaScript</b> 05 Jun 2019 ⭐⭐⭐⭐⭐</summary>
   <br/>
@@ -238,6 +316,8 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br/>
   Jenna Farrell
 </details>
+
+<br/>
 
 <details>
   <summary><b>Website edits and custom animation</b> 01 Apr 2019 ⭐⭐⭐⭐⭐</summary>

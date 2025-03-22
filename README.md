@@ -149,7 +149,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br>
   Diogo delivered above and beyond what was expected. 
   <br><br>
-  <i>Paul Morin<i>
+  <i>Paul Morin</i>
 </details>
 
 <details>
@@ -159,7 +159,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/robert.png" alt="Robert Johnson" style="width:64px;"/>
   <br>
-  <i>Robert Johnson<i>
+  <i>Robert Johnson</i>
 </details>
 
 <details>
@@ -169,7 +169,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/carman.png" alt="Carman Chung" style="width:64px;"/>
   <br>
-  <i>Carman Chung<i>
+  <i>Carman Chung</i>
 </details>
 
 <details>
@@ -179,7 +179,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/adam.png" alt="Adam Selley" style="width:64px;"/>
   <br>
-  <i>Adam Selley<i>
+  <i>Adam Selley</i>
 </details>
 
 <details>
@@ -189,7 +189,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/joe.png" alt="Joe Robison" style="width:64px;"/>
   <br>
-  <i>Joe Robison<i>
+  <i>Joe Robison</i>
 </details>
 
 <details>
@@ -199,7 +199,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/shane.png" alt="Shane Baker" style="width:64px;"/>
   <br>
-  <i>Shane Baker<i>
+  <i>Shane Baker</i>
 </details>
 
 <details>
@@ -209,7 +209,7 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/rudolfs.png" alt="Rudlfs Dzenis" style="width:64px;"/>
   <br>
-  <i>Rudolfs Dzenis<i>
+  <i>Rudolfs Dzenis</i>
 </details>
 
 <details>
@@ -224,7 +224,7 @@ Will be hiring again for sure!
 
 Thanks Diogo!
   <br><br>
-  <i>Matheus Oliveira<i>
+  <i>Matheus Oliveira</i>
 </details>
 
 <details>
@@ -237,7 +237,7 @@ Will work with Diogo again for sure!
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/jenna.png" alt="Jenna Farrell" style="width:64px;"/>
   <br>
-  <i>Jenna Farrell<i>
+  <i>Jenna Farrell</i>
 </details>
 
 
@@ -248,7 +248,7 @@ Will work with Diogo again for sure!
   <br><br>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/natasha.png" alt="Natasha Golinsky" style="width:64px;"/>
   <br>
-  <i>Natasha Golinsky<i>
+  <i>Natasha Golinsky</i>
 </details>
 
 <br><br>

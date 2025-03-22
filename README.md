@@ -142,113 +142,111 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 ## <a name="reviews"> Client Chronicles </a>
 
-<br>
+<br/>
 
 <details>
-  <summary><b>Add Date Filtering to Plugin</b><i> 08 Dec 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>Add Date Filtering to Plugin</b> 08 Dec 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   Diogo delivered above and beyond what was expected. 
-  <br><br>
-  <i>Paul Morin</i>
+  <br/><br/>
+  Paul Morin
 </details>
 
 <details>
-  <summary><b>PaidMembershipPro to Paid Member Subscriptions</b><i> 29 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>PaidMembershipPro to Paid Member Subscriptions</b> 29 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   Diogo was fantastic and went above and beyond my expectations. He worked until all hours of the night getting a mission-critical project finished and anticipated possible challenges. I'm ready to hire him for my next project!
-  <br><br>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/robert.png" alt="Robert Johnson" style="width:64px;"/>
-  <br>
-  <i>Robert Johnson</i>
+  <br/>
+  Robert Johnson
 </details>
 
 <details>
-  <summary><b>I need some coding.</b><i> 19 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>I need some coding.</b> 19 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   Diogo is very efficient. He listened patiently to all my needs and helped me out to accomplish what I exactly wanted. And he always replied in an hour! This is really amazing. 
-  <br><br>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/carman.png" alt="Carman Chung" style="width:64px;"/>
-  <br>
-  <i>Carman Chung</i>
+  <br/>
+  Carman Chung
 </details>
 
 <details>
-  <summary><b>Pushing Local Pickup Plus options to Shipping.</b><i> 01 Nov 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>Pushing Local Pickup Plus options to Shipping.</b> 01 Nov 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   Fast, and super easy to work with. Work was completed to a high standard.
-  <br><br>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/adam.png" alt="Adam Selley" style="width:64px;"/>
-  <br>
-  <i>Adam Selley</i>
+  <br/>
+  Adam Selley
 </details>
 
 <details>
-  <summary><b>I need help architecting a 10,000 page site with data-generated pages connected to external APIs.</b><i> 19 Oct 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
-  Helpful call with Diogo as he helped me scope out my project and contributed new and interesting  insights that can be used in the project! 
-  <br><br>
+  <summary><b>I need help architecting a 10,000 page site with data-generated pages connected to external APIs.</b> 19 Oct 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
+  Helpful call with Diogo as he helped me scope out my project and contributed new and interesting insights that can be used in the project! 
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/joe.png" alt="Joe Robison" style="width:64px;"/>
-  <br>
-  <i>Joe Robison</i>
+  <br/>
+  Joe Robison
 </details>
 
 <details>
-  <summary><b>I need spring cleaning on my wordpress website.</b><i> 07 Oct 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>I need spring cleaning on my WordPress website.</b> 07 Oct 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   Diogo is the website help I have been looking for. By far the best person I've hired yet to help me. 
-  <br><br>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/shane.png" alt="Shane Baker" style="width:64px;"/>
-  <br>
-  <i>Shane Baker</i>
+  <br/>
+  Shane Baker
 </details>
 
 <details>
-  <summary><b>Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin.)</b><i> 24 Aug 2021</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>Fix Issues after creating Ajax user profile (Ultimate Member - User Profile & Membership Plugin.)</b> 24 Aug 2021 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   In addition to the original scope of the project, there were many additional tasks and we managed to accomplish a lot. Communication was at the highest level. Even when we encountered obstacles, finding a common solution was not a problem. I am sure that after this project we both had some valuable takeaways. Great job! 
-  <br><br>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/rudolfs.png" alt="Rudlfs Dzenis" style="width:64px;"/>
-  <br>
-  <i>Rudolfs Dzenis</i>
+  <br/>
+  Rudolfs Dzenis
 </details>
 
 <details>
-  <summary><b>Wordpress customization</b><i> 01 Nov 2019</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>WordPress customization</b> 01 Nov 2019 ⭐⭐⭐⭐⭐</summary>
+  <br/>
+  I've been hiring developers for years, but Diogo is by far the best one I've ever worked with. He is always available to talk and always sends updates regarding the project. If all developers were like him, it would make my life much easier.
   
-I've been hiring developers for years, but Diogo is by far the best one I've ever worked with. He is always available to talk and always sends updates regarding the project. If all developers were like him, it would make my life much easier.
-
-The code and consistency of all the project were amazing and it really surprised the management with all the suggestions he gave us. The project was delivered 2 days before the deadline.
-
-Will be hiring again for sure!
-
-Thanks Diogo!
-  <br><br>
-  <i>Matheus Oliveira</i>
+  The code and consistency of all the project were amazing and it really surprised the management with all the suggestions he gave us. The project was delivered 2 days before the deadline.
+  
+  Will be hiring again for sure!
+  
+  Thanks Diogo!
+  <br/>
+  Matheus Oliveira
 </details>
 
 <details>
-  <summary><b>Text animation using CSS and JavaScript</b><i> 05 Jun 2019</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
-  Diogo, did an excellent job and came up with great work arounds to challenges.
-Great to have a developer that understands design.
-
-Will work with Diogo again for sure!
-  <br><br>
+  <summary><b>Text animation using CSS and JavaScript</b> 05 Jun 2019 ⭐⭐⭐⭐⭐</summary>
+  <br/>
+  Diogo, did an excellent job and came up with great workarounds to challenges.
+  Great to have a developer that understands design.
+  
+  Will work with Diogo again for sure!
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/jenna.png" alt="Jenna Farrell" style="width:64px;"/>
-  <br>
-  <i>Jenna Farrell</i>
+  <br/>
+  Jenna Farrell
 </details>
-
 
 <details>
-  <summary><b>Website edits and custom animation</b><i> 01 Apr 2019</i> ⭐⭐⭐⭐⭐</summary>
-  <br>
+  <summary><b>Website edits and custom animation</b> 01 Apr 2019 ⭐⭐⭐⭐⭐</summary>
+  <br/>
   Diogo does excellent website work and always delivers on time. I appreciate that he works very hard to deliver top quality.
-  <br><br>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/DiogoAngelim/diogoangelim/main/natasha.png" alt="Natasha Golinsky" style="width:64px;"/>
-  <br>
-  <i>Natasha Golinsky</i>
+  <br/>
+  Natasha Golinsky
 </details>
 
-<br><br>
+<br/><br/>

@@ -8,11 +8,6 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
 <br><br>
 
-| [💼 Work](#work) | [🎓 Education](#education) | [💬 Languages](#languages) | [🗓️ Services](#services) | [🧑‍💻 Skills](#skills) | [:octocat: Portfolio](#portfolio) | [🏆 Recognition](#recognition) | [💌 Reviews](#reviews) |
-|------|-----------|-----------------------|------------------|-----------------------|---------------------|--------------|----------------|
-
-<br>
-
 ## <a name="work"></a> Craft 
 
 <br>

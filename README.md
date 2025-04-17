@@ -36,9 +36,6 @@ A visionary Web Developer fueled by ambition and a relentless pursuit of results
 
   Crafted bespoke billing solutions, turning clients into raving fans; Engineered seamless processes for a client journey like no other; Garnered rave reviews for service excellence, setting the bar high; Customized billing strategies, forging unbreakable client bonds; Swooped in like a hero to resolve client concerns, ensuring smiles all around.
 
-- **Marketing Assistant Volunteer** - AIESEC - *2014*
-
-  Ignited social media buzz with engaging content wizardry; Crafted email campaigns that dazzled inboxes and hearts; Wielded design magic, making brands pop in a crowded digital world; Masterminded events that turned heads and packed venues; Unearthed marketing gold through savvy research and analysis.  
 <br>
 
 ## <a name="education"></a> Knowledge Quest 
